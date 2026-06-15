@@ -1,0 +1,11 @@
+Diet_type,Recipe_name,Cuisine_type,Protein(g),Carbs(g),Fat(g),Extraction_day,Extraction_time
+Paleo,Bone Broth From Nom Nom Paleo,american,5.22,1.29,3.2,10/16/2022,17:20:09
+Paleo,Asian-Glazed Pork Sides,south east Asian,181.55,28.62,146.14,10/16/2022,17:20:09
+Paleo,Paleo Pumpkin Pie,american,30.91,302.59,96.76,10/16/2022,17:20:09
+Vegan,Black Bean Tacos,mexican,22.1,60.5,12.3,10/16/2022,17:20:09
+Vegan,Lentil Curry,indian,31.4,80.2,14.1,10/16/2022,17:20:09
+Keto,Cheese Omelette,american,38.2,4.1,45.6,10/16/2022,17:20:09
+Keto,Grilled Salmon,mediterranean,55.7,2.3,39.8,10/16/2022,17:20:09
+Mediterranean,Greek Chicken Bowl,mediterranean,42.5,35.2,21.9,10/16/2022,17:20:09
+Mediterranean,Chickpea Salad,mediterranean,18.4,46.8,16.5,10/16/2022,17:20:09
+Vegan,Tofu Stir Fry,chinese,29.9,44.0,18.8,10/16/2022,17:20:09

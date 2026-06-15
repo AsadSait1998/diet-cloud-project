@@ -1,0 +1,9 @@
+services:
+  diet-analysis:
+    build: .
+    environment:
+      DIET_DATASET_PATH: /app/All_Diets.csv
+      OUTPUT_DIR: /app/outputs
+    volumes:
+      - ./All_Diets.csv:/app/All_Diets.csv:ro
+      - ./outputs:/app/outputs

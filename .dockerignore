@@ -1,0 +1,8 @@
+.git
+.venv
+__pycache__
+.pytest_cache
+azurite-data
+outputs
+simulated_nosql
+*.log
